@@ -6,4 +6,4 @@ poweshell ( windows ), bash ( linus )
 blue team , red team ( try hack me , hack the box )
 
 
-go cirtifications from mosh's vidio
+go certifications from mosh's video
